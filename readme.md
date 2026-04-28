@@ -62,5 +62,5 @@ This project demonstrates:
 - Handling user input in console-based applications
 - Scalable project structure for enterprise-level development
 ## Author
-Abebaw Sete
+**Abebaw Sete** - Kombolcha Institute of Technology  Department of Computer Science
 https://github.com/abebawsete/
