@@ -64,6 +64,5 @@ This project demonstrates:
 ## Author
 **Abebaw Sete** 
 Kombolcha Institute of Technology  
-Department of Computer Science
-Lecturer
+Department of Computer Science 
 https://github.com/abebawsete/
