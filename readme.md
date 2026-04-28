@@ -32,10 +32,10 @@ This project is structured to simulate a basic digital library where users can m
 ## Package Structure
 
 LMS/
- ├── parent/   : Core entity (Book)
- ├── category/ : Specialized book types
- ├── service/  : Business logic (Library CRUD operations)
- └── main/     : Application entry point
+- **parent**  : Core entity (Book)
+- **category** : Specialized book types
+- **service**  : Business logic (Library CRUD operations)
+- ***main**  : Application entry point
 
 
 ## Build & Execution Guide
