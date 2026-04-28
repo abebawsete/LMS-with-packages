@@ -15,10 +15,10 @@ This project is structured to simulate a basic digital library where users can m
 
 ## System Architecture
 
-- **parent** :  Contains the base class representing common book attributes
-- **category** :  Contains specialized book types (EBook, PrintedBook)
-- **service** : Contains core business logic (Library operations / CRUD functionality)
-- **main** : Entry point of the application (MiniProject)
+- **parent**:  Contains the base class representing common book attributes
+- **category**:  Contains specialized book types (EBook, PrintedBook)
+- **service**: Contains core business logic (Library operations / CRUD functionality)
+- **main**: Entry point of the application (MiniProject)
 
 
 ## Object-Oriented Concepts Applied
