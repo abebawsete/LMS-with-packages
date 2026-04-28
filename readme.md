@@ -1,4 +1,4 @@
-# Library Management System Package-Based OOP Project
+# Package-Based OOP Project (LMS)
 
 # Project Overview
 This Library Management System  is a Java-based console application designed using **Object-Oriented Programming (OOP)** principles and **Java Package Architecture**. The system demonstrates real-world software design concepts such as modularization, inheritance, encapsulation, and CRUD operations.
